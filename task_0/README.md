@@ -16,3 +16,8 @@
 - Working with GitHub.com I've found some new operations: forking, merging of the remote repositories. 
 - I surprised that collaborating with other people via GitHub.com is not very hard.
 - At least I’ll use my repositories on the GitHub.com to get the last version of my working data in the PC in the office and in the laptop at home.
+
+**4. Finish "learngitbranching" course and put the screenshots of completed tasks**
+   The course has been finished successfully.
+   Results can be found on the screenshot1 and screenshot2.
+   It was really exciting course!
