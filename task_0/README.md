@@ -19,5 +19,5 @@
 
 **4. Finish "learngitbranching" course and put the screenshots of completed tasks**
    The course has been finished successfully.
-   Results can be found on the screenshot1 and screenshot2.
+   Results can be found on the [screenshot1](https://github.com/svolkov/kottans_web_test/blob/master/task_0/learngitbranching_result_1.jpg) and [screenshot2](https://github.com/svolkov/kottans_web_test/blob/master/task_0/learngitbranching_result_2.jpg).
    It was really exciting course!
