@@ -29,4 +29,4 @@
    It was really exciting course!
 
 **7. Send a pull-request to repo Kottans/mock-repo proposing a change.**
-- Pull-request to repo Kottans/mock-repo has been sent.
+- Pull-request to repo Kottans/mock-repo has been sent (Attached [screenshot](https://github.com/svolkov/kottans_web_test/blob/master/task_0/PullRequest.jpg)). 
