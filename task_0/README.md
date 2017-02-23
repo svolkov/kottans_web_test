@@ -17,7 +17,16 @@
 - I surprised that collaborating with other people via GitHub.com is not very hard.
 - At least I’ll use my repositories on the GitHub.com to get the last version of my working data in the PC in the office and in the laptop at home.
 
-**4. Finish "learngitbranching" course and put the screenshots of completed tasks**
+**4. Create repository named "kottans_web_test" and a folder "task_0" in that repository.**
+- Repository named "kottans_web_test" and a folder "task_0" in that repository have been created.
+
+**5. Create README.md for the repository.**
+- README.md for the repository "kottans_web_test/task_0" has been created.
+
+**6. Finish "learngitbranching" course and put the screenshots of completed tasks**
    The course has been finished successfully.
    Results can be found on the [screenshot1](https://github.com/svolkov/kottans_web_test/blob/master/task_0/learngitbranching_result_1.jpg) and [screenshot2](https://github.com/svolkov/kottans_web_test/blob/master/task_0/learngitbranching_result_2.jpg).
    It was really exciting course!
+
+**7. Send a pull-request to repo Kottans/mock-repo proposing a change.**
+- Pull-request to repo Kottans/mock-repo has been sent.
